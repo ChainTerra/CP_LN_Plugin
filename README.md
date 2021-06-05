@@ -1,3 +1,5 @@
+# CloutPool Lightweight Node Plugin
+---
 # Packer Plugin Scaffolding
 
 This repository is a template for a Packer multi-component plugin. It is intended as a starting point for creating Packer plugins, containing:
