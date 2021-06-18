@@ -8,7 +8,7 @@ import (
 	scaffoldingPP "packer-plugin-scaffolding/post-processor/scaffolding"
 	scaffoldingProv "packer-plugin-scaffolding/provisioner/scaffolding"
 	scaffoldingVersion "packer-plugin-scaffolding/version"
-
+	"github.com/ChainTerra/CP_LN_Plugin"
 	"github.com/hashicorp/packer-plugin-sdk/plugin"
 )
 
