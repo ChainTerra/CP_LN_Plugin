@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="http://cloutpool.net">
+    <img src="https://raw.githubusercontent.com/ChainTerra/chainterra.github.io/main/assets/images/cloutpool_placeholder.png" width="250" alt="CloutPool_Logo">
+  </a>
+</p>
+
 # CloutPool Lightweight Node Plugin
 ---
 # Packer Plugin Scaffolding
